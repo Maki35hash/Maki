@@ -1,0 +1,7 @@
+{
+  "name": "Elio: The British Elocutionist",
+  "description": "A sophisticated AI voice coach helping users master Received Pronunciation through real-time feedback and physiological correction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
